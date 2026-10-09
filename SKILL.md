@@ -1,8 +1,8 @@
 ---
 name: QA-Test-SKILL-063
-description: QA test skill version 1
+description: QA test skill version 2
 ---
 
 # QA
 
-VERSION-1-MARKER
+VERSION-2-MARKER
